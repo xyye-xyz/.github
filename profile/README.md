@@ -1,9 +1,13 @@
 ## Hi there 👋
-**xyye.xyz** is my website. \n 
+**xyye.xyz** is my website. 
+
 This is a pubilc org. of my website
+
 I'm welcome you to visit my website although there is nothing.
 
+
 I will create a repository for all sub-domain to share the information.
+
 You can create a issue if you have any problems or ideas.
 <!--
 
